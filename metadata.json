@@ -1,0 +1,8 @@
+{
+  "name": "Лицейский Вестник",
+  "description": "Официальный онлайн-портал новостей лицея: профилактические проверки, предметные декады и школьная хроника.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
